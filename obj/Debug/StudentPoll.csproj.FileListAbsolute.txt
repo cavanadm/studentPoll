@@ -1,0 +1,20 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.StudentPollForm.resources
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csprojAssemblyReference.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.StudentPollForm.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.CoreCompileInputs.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
